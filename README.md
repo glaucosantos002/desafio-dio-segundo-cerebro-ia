@@ -48,10 +48,10 @@ As perguntas, respostas e referências estão documentadas em `perguntas/pergunt
 
 ## 📊 Materiais gerados
 
-- **Mapa mental:** `resultados/mapa-mental.png`
-- **Slides:** `resultados/slides.pdf`
-- **Resumo em áudio:** `resultados/resumo-audio.mp3`
-- **Captura do notebook:** `imagens/notebook.png`
+- **Mapa mental:** `mapa-mental`
+- **Slides:** `Arquitetura de IA`
+- **Resumo em áudio:** `Agentes Autônomos`
+- **Captura do notebook:** `NotebookLM`
 
 ## 🔗 Notebook do projeto
 
